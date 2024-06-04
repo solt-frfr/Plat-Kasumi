@@ -11,7 +11,7 @@ NEED TO DO:
   - [x] Water flower
   - [x] Surf
   - [x] Dress
-  - [ ] Fishing
+  - [x] Fishing
   - [ ] Aerobics
   - [ ] Save
   - [ ] Pokecenter
