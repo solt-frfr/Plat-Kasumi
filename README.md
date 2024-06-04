@@ -1,7 +1,17 @@
 # Plat-Kasumi
 Kasumi Yoshizawa in Pokemon Platinum
 
+Working on: Fishing Sprites
+
 NEED TO DO:
-- Hall of Fame
-- Trainer Card Palletes
-- Overworld Sprites
+- [ ] Overworld Sprites
+  - [x] Walking/Running
+  - [x] Bike
+  - [x] Pull out Pokeball
+  - [x] Water flower
+  - [x] Surf
+  - [x] Dress
+  - [ ] Fishing
+  - [ ] Aerobics
+  - [ ] Save
+  - [ ] Pokecenter
