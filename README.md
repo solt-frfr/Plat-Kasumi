@@ -15,3 +15,4 @@ NEED TO DO:
   - [ ] Aerobics
   - [ ] Save
   - [ ] Pokecenter
+  - [ ] VS Seeker
